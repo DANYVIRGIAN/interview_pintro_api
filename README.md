@@ -42,11 +42,6 @@ source venv/bin/activate
 pip install pytest requests
 ```
 
-*(Opsional) Simpan dependencies ke file untuk penggunaan di masa mendatang:*
-```bash
-pip freeze > requirements.txt
-```
-
 ## Running Test
 
 Untuk menjalankan pengujian otomatis, jalankan perintah berikut di direktori root:
